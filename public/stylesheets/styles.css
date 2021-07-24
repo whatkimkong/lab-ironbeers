@@ -5,3 +5,11 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+
+body {
+    background-color:lightslategray ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
